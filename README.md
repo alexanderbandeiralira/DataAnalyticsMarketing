@@ -1,1 +1,1 @@
-# DataAnalyticsMarketing-Regression
+# DataAnalyticsMarketing-LinearRegression
